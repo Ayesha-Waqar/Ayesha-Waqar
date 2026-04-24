@@ -1,12 +1,9 @@
 <div align="center">
   <h1>Hi there, I'm Ayesha Waqar 👋</h1>
-  <p><strong>Full Stack Developer | MERN Stack Specialist | Logic Enthusiast</strong></p>
+  <p><strong>Full Stack Developer | MERN Stack Specialist | E-commerce Logic Expert</strong></p>
 
   <a href="https://www.linkedin.com/in/ayesha-waqar-211ab7330/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
@@ -14,10 +11,10 @@
 
 ### 👩‍💻 About Me
 
-- 🔭 **Expertise:** Specialized in building end-to-end web applications with the **MERN Stack**.
-- 💡 **Passion:** I excel at solving complex state management issues and designing intuitive **Admin Dashboards**.
-- 🧠 **Problem Solving:** Consistently sharpening my data structures and algorithms skills using **C++**.
-- 🎨 **UI/UX:** Dedicated to creating pixel-perfect, responsive layouts using **Tailwind CSS**.
+- 🔭 **Current Focus:** Engineering high-performance e-commerce solutions with the **MERN Stack**.
+- 💡 **Specialization:** Designing complex **Seller Dashboards** and administrative order management systems.
+- 🧠 **Problem Solving:** Daily **LeetCode** practice in **C++** to optimize algorithmic efficiency.
+- 🎨 **Styling:** Building fluid, responsive user interfaces using **Tailwind CSS**.
 
 ---
 
@@ -32,21 +29,14 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Project: GreenCart 🛒
 
-#### 🏥 [Prescripto – Doctor Booking System](https://github.com/Ayesha-Waqar/Prescripto)
-*A full-stack healthcare appointment platform.*
-- **Core Logic:** Developed a seamless booking flow with real-time availability and specialized doctor categories.
-- **Tech:** React, Node.js, Express, and MongoDB.
+**GreenCart** is a comprehensive full-stack e-commerce ecosystem designed for seamless shopping and robust seller management.
 
-#### 🛒 [E-commerce Seller & Admin Panels](https://github.com/Ayesha-Waqar)
-*Comprehensive management systems for online retail.*
-- **Impact:** Built complex order tracking systems and inventory management interfaces.
-- **Security:** Implemented **JWT-based authentication** to protect sensitive user and seller data.
-
-#### 🏠 [Real Estate MERN Application](https://github.com/Ayesha-Waqar)
-*A high-performance platform for listing and managing properties.*
-- **UI:** Highly responsive design utilizing Tailwind CSS for a premium user experience.
+* **Seller & Admin Dashboard:** Built specialized interfaces for sellers to manage product listings, track order status, and monitor quantities.
+* **Secure Authentication:** Implemented **JWT (JSON Web Tokens)** to manage user sessions and ensure the cart and order data are only accessible to authenticated users.
+* **Checkout & State Management:** Engineered a responsive shipping address entry system and a dynamic image gallery for product details.
+* **Backend Architecture:** Developed optimized Node.js/Mongoose queries to handle complex data mapping for buyer and seller order lists.
 
 ---
 
@@ -60,6 +50,5 @@
 ---
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i> <br>
-  <strong>Feel free to explore my repos and let's connect!</strong>
+  <strong>Feel free to explore my repositories or reach out for a technical collaboration!</strong>
 </p>
